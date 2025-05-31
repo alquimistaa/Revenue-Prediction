@@ -1,0 +1,16 @@
+The dataset provided contains the following columns:
+Dataset Description
+1. Date: The date associated with the data point (daily granularity).
+2. Cost: The total cost of the acquiring new users.
+3. Install: The number of new user installs acquired on that cohort day.
+4. Time Spent: The average time users spent engaging with the app on that cohort day (in minutes).
+5. LvL Start: The average number of  level starts by users on that cohort day.
+6. LvL Win: The average number of levels completed successfully by users on that cohort day.
+7. Ego Buy: The total number of ego-related coin spend made by users not real purchase.
+8. Ego Buyer %: The percentage of users who made  ego-related coin spend .
+9. Purchaser %: The percentage of users who made in-app purchase.
+10. Booster Use: The average number of boosters used by users.
+11. Booster User %: The percentage of users who used boosters.
+12. Session Ct: The average number of sessions logged by users.
+13. Revenue (0): Revenue generated on the install day.
+Revenue (30): Revenue generated in first 30 Days — this is the target variable to predict
